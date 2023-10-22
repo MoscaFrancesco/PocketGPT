@@ -1,5 +1,5 @@
 # PocketGPT
-PocketGPT 1.0.0 Beta
+PocketGPT 1.0.0 Beta - lightweight windows GUI for ChatGPT
 
 PocketGPT is a chat-based assistant for Windows that leverages the power of GPT (Generative Pre-trained Transformer) language models. With PocketGPT, users can converse with a virtual assistant in natural language and ask it to perform a wide range of tasks. Powered by OpenAI's GPT technology, PocketGPT can understand and respond to a wide range of queries and adapt to individual users' needs over time.PocketGPT is the ultimate desktop assistant for today's fast-paced world.
 
